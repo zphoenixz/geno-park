@@ -11,14 +11,14 @@ This repo contains a simple mobile app with the backend powered by [Pocketbase](
  * **How?** A button is placed in the homescreen that allows you to pop in a modal in order to choose the amount of gifts you want to receive.
  
 #### Challenge screenshots
-<p align="left">
-<img src="https://github.com/zphoenixz/geno-park/blob/main/screen0.png" width="150" >
+<p align="center">
+<img src="https://github.com/zphoenixz/geno-park/blob/main/screen0.png" width="200" >
 </p>
 <p align="center">
-<img src="https://github.com/zphoenixz/geno-park/blob/main/screen1.png" width="150" >
+<img src="https://github.com/zphoenixz/geno-park/blob/main/screen1.png" width="200" >
 </p>
-<p align="right">
-<img src="https://github.com/zphoenixz/geno-park/blob/main/screen2.png" width="150" >
+<p align="center">
+<img src="https://github.com/zphoenixz/geno-park/blob/main/screen2.png" width="200" >
 </p>
 
 #### Project's tech stack
