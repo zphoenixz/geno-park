@@ -12,13 +12,13 @@ This repo contains a simple mobile app with the backend powered by [Pocketbase](
  
 #### Challenge screenshots
 <p align="center">
-<img src="https://github.com/zphoenixz/geno-park/blob/main/screen0.png" width="400" height="400">
+<img src="https://github.com/zphoenixz/geno-park/blob/main/screen0.png" width="150" >
 </p>
 <p align="center">
-<img src="https://github.com/zphoenixz/geno-park/blob/main/screen1.png" width="400" height="400">
+<img src="https://github.com/zphoenixz/geno-park/blob/main/screen1.png" width="150" >
 </p>
 <p align="center">
-<img src="https://github.com/zphoenixz/geno-park/blob/main/screen2.png" width="400" height="400">
+<img src="https://github.com/zphoenixz/geno-park/blob/main/screen2.png" width="150" >
 </p>
 
 #### Project's tech stack
