@@ -43,6 +43,9 @@ docker-compose up -d
 cd backend 
 ```
 ```
+npm install
+```
+```
 npx ts-node src/index.ts
 ```
 **4. Go the the flutter folder and start preferred mobile emulator**
